@@ -50,7 +50,6 @@ R"(
         "MUTE",
         "MYAPPS",              
         "NETFLIX",
-        "P_ONLY",
         "POWER",               
         "PROGRAM",             
         "QMENU",               
